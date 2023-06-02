@@ -16,7 +16,7 @@ async def get_user(user_id):
             "user_id": user_id,
             "method":"tajlink.site",
             "shortener_api": None,
-            "mdisk_api": None,
+            "tajlink_api": None,
             "header_text": "",
             "footer_text": "",
             "username": None,
